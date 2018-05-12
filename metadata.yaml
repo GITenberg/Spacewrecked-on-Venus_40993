@@ -1,0 +1,30 @@
+_repo: Spacewrecked-on-Venus_40993
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40993-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jones, Neil R.
+    alias: Jones, Neil Ronald
+    birthdate: 1909
+    deathdate: 1988
+    gutenberg_agent_id: '32321'
+    url: http://www.gutenberg.org/2009/agents/32321
+    wikipedia: http://en.wikipedia.org/wiki/Neil_R._Jones
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcc 'PS'
+title: Spacewrecked on Venus
+url: http://www.gutenberg.org/ebooks/40993
